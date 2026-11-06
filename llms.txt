@@ -27,6 +27,9 @@
 - [Emergency plumber near me in Centerport](https://local-business-guides.github.io/brothers-plumbing-centerport/emergency-plumber-near-me/): Need an emergency plumber near me in Centerport? Call Brothers Plumbing for 24-hour emergency service and help deciding what to do next at home today.
 - [Plumber close to me Centerport](https://local-business-guides.github.io/brothers-plumbing-centerport/plumber-close-to-me-centerport/): Searching for a plumber close to me Centerport? Get help with plumbing repairs or installations from Brothers Plumbing. Call to discuss a Centerport booking.
 
+## Newsroom
+- [Brothers Plumbing Shares Centerport Plumbing Guide and Media](https://local-business-guides.github.io/brothers-plumbing-centerport/news/2026-11-06-brothers-plumbing-shares-centerport-plumbing-guide/): Brothers Plumbing published a guide to Centerport Plumber services, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Centerport Plumber in New York](https://local-business-guides.github.io/brothers-plumbing-centerport/): Get help with plumbing, heating, air conditioning, and water damage restoration from a local team serving Centerport. Call +1631-769-9200.
 - [About Brothers Plumbing in Centerport](https://local-business-guides.github.io/brothers-plumbing-centerport/about/): About Brothers Plumbing, Centerport.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/brothers-plumbing-centerport/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/brothers-plumbing-centerport/news/rss.xml)
 - [Main resource site](https://brothers-plumbing-centerport.localwebsites.chatgpt.site)

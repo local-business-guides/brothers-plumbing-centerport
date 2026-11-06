@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/brothers-plumbing-centerport/sitemap.xml
+Sitemap: https://local-business-guides.github.io/brothers-plumbing-centerport/news-sitemap.xml
